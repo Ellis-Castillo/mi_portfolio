@@ -4,6 +4,8 @@ Pronto haré un proyecto de final de curso interesante
 ## Proyectos en curso
 Prototipado de aplicación básica en android
 Prácticas en Java
+## Habilidades
+Java, C++, C#, postgreSQL, MySQL Workbench, BASH, AWS S3, AWS EC2
 ## Idiomas
 Español
 Inglés - English
