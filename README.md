@@ -4,3 +4,5 @@ Pronto haré un proyecto de final de curso interesante
 ## Proyectos en curso
 Prototipado de aplicación básica en android
 Prácticas en Java
+## Contacto
+ellis.c.schmuck@gmail.com
